@@ -1,0 +1,5 @@
+{
+  "name": "alexb-mods",
+  "owner": { "name": "alexbazu" },
+  "plugins": [{ "name": "turn-timer", "source": "./" }]
+}
