@@ -1,5 +1,6 @@
 {
   "name": "alexb-mods",
+  "description": "Claude Code mods by alexbazu",
   "owner": { "name": "alexbazu" },
   "plugins": [{ "name": "turn-timer", "source": "./" }]
 }
