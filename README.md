@@ -26,8 +26,8 @@ Done in 1m 23s
 ```
 Today: 3 tasks, 4m 12s total
 Oct 14, 10:02 AM      42.0s  fix the null ref in GarageMenu  [Read 3.1s · Edit 0.4s]
-Oct 14, 10:15 AM    1m 23s  recompile and check the console  [Bash unity command 48.2s · Read 3.1s]
-Oct 14, 11:40 AM    2m 7s  write tests for formatDuration  [Bash npm test 1m 2s · Write 0.6s]
+Oct 14, 10:15 AM     1m 23s  recompile and check the console  [Bash unity command 48.2s · Read 3.1s]
+Oct 14, 11:40 AM      2m 7s  write tests for formatDuration  [Bash npm test 1m 2s · Write 0.6s]
 Most time in tools (summed, parallel calls overlap): Bash npm test 1m 2s · Bash unity command 48.2s · Read 6.2s
 ```
 
